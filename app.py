@@ -8,5 +8,4 @@ import numpy
 import matplotlib
 
 =======
-xyz
->>>>>>> dev4
+xyyz
